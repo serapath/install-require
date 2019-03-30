@@ -1,0 +1,26 @@
+{
+  "name": "install-require",
+  "version": "0.0.0",
+  "description": "install and require modules from npm on the fly in the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serapath/install-require.git"
+  },
+  "keywords": [
+    "require",
+    "import",
+    "npm",
+    "install",
+    "browser"
+  ],
+  "author": "@serapath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serapath/install-require/issues"
+  },
+  "homepage": "https://github.com/serapath/install-require#readme"
+}
